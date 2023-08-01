@@ -1,6 +1,7 @@
+
 const fatorial = require('./aula-09').fatorial
 
-console.log('n-fatorial')
+// console.log('n-fatorial')
 
 const num = parseInt(process.argv[2])
 
